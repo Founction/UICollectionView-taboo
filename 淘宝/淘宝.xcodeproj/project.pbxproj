@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B6A85BD1CE8071F003B8952 /* LYWaterflowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B6A85BC1CE8071F003B8952 /* LYWaterflowLayout.m */; };
+		6B6A85C71CE81FDF003B8952 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B6A85BF1CE81FDF003B8952 /* 1.jpeg */; };
+		6B6A85C81CE81FDF003B8952 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B6A85C01CE81FDF003B8952 /* 2.jpeg */; };
+		6B6A85C91CE81FDF003B8952 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B6A85C11CE81FDF003B8952 /* 3.jpeg */; };
+		6B6A85CA1CE81FDF003B8952 /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B6A85C21CE81FDF003B8952 /* 4.jpeg */; };
+		6B6A85CB1CE81FDF003B8952 /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B6A85C31CE81FDF003B8952 /* 5.jpeg */; };
+		6B6A85CC1CE81FDF003B8952 /* 6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B6A85C41CE81FDF003B8952 /* 6.jpeg */; };
+		6B6A85CD1CE81FDF003B8952 /* 7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B6A85C51CE81FDF003B8952 /* 7.jpeg */; };
+		6B6A85CE1CE81FDF003B8952 /* 8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B6A85C61CE81FDF003B8952 /* 8.jpeg */; };
+		6B6A85D11CE822C4003B8952 /* shop.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B6A85D01CE822C4003B8952 /* shop.m */; };
+		6B6A85D41CE82768003B8952 /* LYCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B6A85D31CE82768003B8952 /* LYCollectionViewCell.m */; };
+		6B6A85D61CE828CE003B8952 /* LYCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6B6A85D51CE828CE003B8952 /* LYCollectionViewCell.xib */; };
 		6BFAC9BC1CE754E8000EA7C3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BFAC9BB1CE754E8000EA7C3 /* main.m */; };
 		6BFAC9BF1CE754E8000EA7C3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BFAC9BE1CE754E8000EA7C3 /* AppDelegate.m */; };
 		6BFAC9C21CE754E8000EA7C3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BFAC9C11CE754E8000EA7C3 /* ViewController.m */; };
@@ -35,6 +47,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6B6A85BB1CE8071F003B8952 /* LYWaterflowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYWaterflowLayout.h; sourceTree = "<group>"; };
+		6B6A85BC1CE8071F003B8952 /* LYWaterflowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYWaterflowLayout.m; sourceTree = "<group>"; };
+		6B6A85BF1CE81FDF003B8952 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		6B6A85C01CE81FDF003B8952 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
+		6B6A85C11CE81FDF003B8952 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
+		6B6A85C21CE81FDF003B8952 /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpeg; sourceTree = "<group>"; };
+		6B6A85C31CE81FDF003B8952 /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpeg; sourceTree = "<group>"; };
+		6B6A85C41CE81FDF003B8952 /* 6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpeg; sourceTree = "<group>"; };
+		6B6A85C51CE81FDF003B8952 /* 7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpeg; sourceTree = "<group>"; };
+		6B6A85C61CE81FDF003B8952 /* 8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpeg; sourceTree = "<group>"; };
+		6B6A85CF1CE822C4003B8952 /* shop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = shop.h; sourceTree = "<group>"; };
+		6B6A85D01CE822C4003B8952 /* shop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = shop.m; sourceTree = "<group>"; };
+		6B6A85D21CE82768003B8952 /* LYCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYCollectionViewCell.h; sourceTree = "<group>"; };
+		6B6A85D31CE82768003B8952 /* LYCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYCollectionViewCell.m; sourceTree = "<group>"; };
+		6B6A85D51CE828CE003B8952 /* LYCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LYCollectionViewCell.xib; sourceTree = "<group>"; };
 		6BFAC9B71CE754E8000EA7C3 /* 淘宝.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "淘宝.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BFAC9BB1CE754E8000EA7C3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6BFAC9BD1CE754E8000EA7C3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -78,6 +105,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6B6A85BE1CE81FDF003B8952 /* AdImages副本 */ = {
+			isa = PBXGroup;
+			children = (
+				6B6A85BF1CE81FDF003B8952 /* 1.jpeg */,
+				6B6A85C01CE81FDF003B8952 /* 2.jpeg */,
+				6B6A85C11CE81FDF003B8952 /* 3.jpeg */,
+				6B6A85C21CE81FDF003B8952 /* 4.jpeg */,
+				6B6A85C31CE81FDF003B8952 /* 5.jpeg */,
+				6B6A85C41CE81FDF003B8952 /* 6.jpeg */,
+				6B6A85C51CE81FDF003B8952 /* 7.jpeg */,
+				6B6A85C61CE81FDF003B8952 /* 8.jpeg */,
+			);
+			path = "AdImages副本";
+			sourceTree = "<group>";
+		};
 		6BFAC9AE1CE754E8000EA7C3 = {
 			isa = PBXGroup;
 			children = (
@@ -101,10 +143,18 @@
 		6BFAC9B91CE754E8000EA7C3 /* 淘宝 */ = {
 			isa = PBXGroup;
 			children = (
+				6B6A85BE1CE81FDF003B8952 /* AdImages副本 */,
 				6BFAC9BD1CE754E8000EA7C3 /* AppDelegate.h */,
 				6BFAC9BE1CE754E8000EA7C3 /* AppDelegate.m */,
 				6BFAC9C01CE754E8000EA7C3 /* ViewController.h */,
 				6BFAC9C11CE754E8000EA7C3 /* ViewController.m */,
+				6B6A85D21CE82768003B8952 /* LYCollectionViewCell.h */,
+				6B6A85D31CE82768003B8952 /* LYCollectionViewCell.m */,
+				6B6A85D51CE828CE003B8952 /* LYCollectionViewCell.xib */,
+				6B6A85CF1CE822C4003B8952 /* shop.h */,
+				6B6A85D01CE822C4003B8952 /* shop.m */,
+				6B6A85BB1CE8071F003B8952 /* LYWaterflowLayout.h */,
+				6B6A85BC1CE8071F003B8952 /* LYWaterflowLayout.m */,
 				6BFAC9C31CE754E8000EA7C3 /* Main.storyboard */,
 				6BFAC9C61CE754E8000EA7C3 /* Assets.xcassets */,
 				6BFAC9C81CE754E8000EA7C3 /* LaunchScreen.storyboard */,
@@ -243,9 +293,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B6A85C81CE81FDF003B8952 /* 2.jpeg in Resources */,
 				6BFAC9CA1CE754E8000EA7C3 /* LaunchScreen.storyboard in Resources */,
 				6BFAC9C71CE754E8000EA7C3 /* Assets.xcassets in Resources */,
+				6B6A85C91CE81FDF003B8952 /* 3.jpeg in Resources */,
+				6B6A85CE1CE81FDF003B8952 /* 8.jpeg in Resources */,
+				6B6A85D61CE828CE003B8952 /* LYCollectionViewCell.xib in Resources */,
+				6B6A85CA1CE81FDF003B8952 /* 4.jpeg in Resources */,
+				6B6A85CD1CE81FDF003B8952 /* 7.jpeg in Resources */,
 				6BFAC9C51CE754E8000EA7C3 /* Main.storyboard in Resources */,
+				6B6A85CC1CE81FDF003B8952 /* 6.jpeg in Resources */,
+				6B6A85C71CE81FDF003B8952 /* 1.jpeg in Resources */,
+				6B6A85CB1CE81FDF003B8952 /* 5.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,7 +329,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B6A85D11CE822C4003B8952 /* shop.m in Sources */,
+				6B6A85BD1CE8071F003B8952 /* LYWaterflowLayout.m in Sources */,
 				6BFAC9C21CE754E8000EA7C3 /* ViewController.m in Sources */,
+				6B6A85D41CE82768003B8952 /* LYCollectionViewCell.m in Sources */,
 				6BFAC9BF1CE754E8000EA7C3 /* AppDelegate.m in Sources */,
 				6BFAC9BC1CE754E8000EA7C3 /* main.m in Sources */,
 			);
@@ -496,6 +558,7 @@
 				6BFAC9E61CE754E8000EA7C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6BFAC9E71CE754E8000EA7C3 /* Build configuration list for PBXNativeTarget "淘宝Tests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +567,7 @@
 				6BFAC9E91CE754E8000EA7C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6BFAC9EA1CE754E8000EA7C3 /* Build configuration list for PBXNativeTarget "淘宝UITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +576,7 @@
 				6BFAC9EC1CE754E8000EA7C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
